@@ -1,3 +1,7 @@
+/**
+ * 求素数，使用sqrt，优化求素数效率
+ */
+
 #include <stdio.h>
 #include <math.h>
 
