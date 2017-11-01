@@ -1,5 +1,6 @@
 /**
  * 求素数，使用sqrt，优化求素数效率
+ * gcc perm.c -o perm -lm       使用数学库需要使用 -lm
  */
 
 #include <stdio.h>
